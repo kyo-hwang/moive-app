@@ -1,5 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "mobile_movie_app",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
